@@ -1,0 +1,86 @@
+.all {
+			border: 1px solid black;
+			font-size: 0px;
+			
+	}
+
+	.top {
+	 
+
+	}
+
+	.outer {
+		margin: auto;
+		/*margin-top: auto;*/
+		width: 800px;
+		height: 500px;
+		 
+
+	}
+
+.bottom {
+ 
+}
+
+#blue {
+	background-color: blue;
+
+	width: 400px;
+	height: 200px;
+	font-size: 0px;
+
+/*display property*/
+	display: inline-block;
+}
+#green {
+	background-color: green;
+
+	width: 400px;
+	height: 200px;
+	font-size: 0px;
+
+
+	display: inline-block;
+	 
+}
+#orange {
+	background-color: orange;
+
+	width: 266.6px;
+	height: 300px;
+	font-size: 0px;
+
+
+	display: inline-block;
+
+
+}
+#grey {
+	background-color: grey;
+
+	width: 266.6px;
+	height: 300px;
+	font-size: 0px;
+	
+	display: inline-block;
+
+}
+#black {
+	background-color: black;
+
+	width: 266.6px;
+	height: 300px;
+	font-size: 0px;
+	
+	/*display: inline-block;*/
+	 
+	
+	display: inline-block;
+	/* not within the orange box*/;
+}
+
+main {
+	font-size: 0px;
+
+
+}
